@@ -1,3 +1,3 @@
 #! /bin/sh
 
-cheatset generate fsharp.rb
+cheatset generate FSharp.rb
